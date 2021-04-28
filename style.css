@@ -1,0 +1,50 @@
+body
+{
+background-color:  rgb(37, 110, 179);
+font-family:  Verdana;
+color:  #FFF;
+background-image: url("splash.png");
+background-repeat: no-repeat;
+background-position: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(6, 10, 252);
+    font-size: 1.5vw;
+    clear: both;
+    position: relative;
+}
+
+p{
+    margin-left: 1vw;
+    text-align: justify;
+    font-size: 1vw;
+}
+
+h1{
+    font-size: 3vw;
+    text-align: center;
+    margin-bottom: 3vw;
+}
+
+table, td{
+    margin-bottom: 2vw;
+    border: 2px solid black;
+    font-size: 1vw;
+    text-align: center;
+}
+
+td{
+    padding: 1vw;
+}
+
+#cim{
+    padding: 1vw;
+}
+
+
